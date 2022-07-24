@@ -1,0 +1,18 @@
+[
+    {
+        "IRON": "https://media.discordapp.net/attachments/801908084967866408/862802556387459092/Emblem_Iron.png",
+        "BRONZE": "https://cdn.discordapp.com/attachments/801908084967866408/862802543696281680/Emblem_Bronze.png",
+        "SILVER": "https://cdn.discordapp.com/attachments/801908084967866408/862802562511798282/Emblem_Silver.png",
+        "GOLD": "https://cdn.discordapp.com/attachments/801908084967866408/862802553934315530/Emblem_Gold.png",
+        "PLATINUM": "https://cdn.discordapp.com/attachments/801908084967866408/862802559836356669/Emblem_Platinum.png",
+        "DIAMOND": "https://cdn.discordapp.com/attachments/801908084967866408/862802551606083644/Emblem_Diamond.png",
+        "MASTER": "https://cdn.discordapp.com/attachments/801908084967866408/862802558170693642/Emblem_Master.png",
+        "GRANDMASTER": "https://cdn.discordapp.com/attachments/801908084967866408/862802555263778876/Emblem_Grandmaster.png",
+        "CHALLENGER": "https://media.discordapp.net/attachments/801908084967866408/862802550184083506/Emblem_Challenger.png"
+    },
+    
+    {
+        "RANKED_SOLO_5x5": "Ranked Solo/Duo",
+        "RANKED_FLEX_SR": "Ranked Flexible 5x5"
+    }
+]
