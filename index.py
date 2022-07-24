@@ -786,4 +786,4 @@ async def classement(
         )
     await ctx.send(embed=e)
 
-bot.run("OTQzMjYxNTA4MDQzOTQ4MDU0.YgwevA.IRnII6pKYFXMIfV5SFPip1An-bc")
+bot.run("")
